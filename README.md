@@ -2,6 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
+<img align="right" alt="coding" width="300" height="200" src="https://media.giphy.com/media/NiwZ9THiCOodYySoSh/giphy.gif">
+
+
 - 🔭 I’m currently working on a MERN Project and DSA
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
@@ -9,6 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: rohan_shelke_it@moderncoe.edu.in
 - 📄 Know about my experiences [https://drive.google.com/file/d/16hzK0f7OdWtCEZkMJtGKgYRHxNB1wWse/view?usp=sharing](https://drive.google.com/file/d/16hzK0f7OdWtCEZkMJtGKgYRHxNB1wWse/view?usp=sharing)
 - ⚡ Fun fact: I'm currently studying B. E Information Technology
+
 
 <a href="https://www.github.com/rohanrs09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rohanrs09?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
